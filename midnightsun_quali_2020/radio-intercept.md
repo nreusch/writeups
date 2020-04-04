@@ -7,6 +7,8 @@ Points: 228
 
 Solves: 18
 
+Tags: misc, forensic, radio
+
 ## Initial steps
 We unpack the provided archive. We find a .bin file and a screenshot:
 
